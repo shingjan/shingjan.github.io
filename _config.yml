@@ -82,7 +82,7 @@ author:
       url: "https://linkedin.com/in/shingjan"
     - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
-      url: "https://mastodon.online/@shingjan"
+      url: "https://discuss.systems/@shingjan"
 
 footer:
   links:
@@ -97,7 +97,7 @@ footer:
       url: "https://linkedin.com/in/shingjan"
     - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
-      url: "https://mastodon.online/@shingjan"
+      url: "https://discuss.systems/@shingjan"
 
 defaults:
   # _posts
