@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Yuanjing Shi's homepage. I write about machine learning and compilers
 github_username: shingjan
 linkedin_username: shingjan
-twitter_username: yjshi03 
+twitter_username: shingjan_
 
 minimal_mistakes_skin: dirt
 search: true
@@ -27,6 +27,8 @@ search: true
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes@4.24.0
+logo: "/assets/icons/palm_tree.png"
+
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -73,7 +75,7 @@ author:
       url: "https://shingjan.me"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/yjshi03"
+      url: "https://twitter.com/shingjan_"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/shingjan"
@@ -88,7 +90,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/yjshi03"
+      url: "https://twitter.com/shingjan_"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/shingjan"
