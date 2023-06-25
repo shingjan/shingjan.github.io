@@ -32,5 +32,5 @@ I earned my master's degree from [UIUC CS](https://cs.illinois.edu/) and bachelo
 
 ### Misc
 
-- Contact me at yj at shingjan.me
+- Contact me at yj at shingjan dot com
 - My primary [blog](/posts/)
