@@ -13,10 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Homepage
+title: yj's homepage
+title_separator: "-"
+subtitle:
+name: yj
 email: yj@shingjan.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Yuanjing Shi's homepage. I write about machine learning and compilers
+  I write about machine learning and compilers
 github_username: shingjan
 linkedin_username: shingjan
 twitter_username: shingjan_
@@ -27,7 +30,7 @@ search: true
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes@4.24.0
-logo: "/assets/icons/palm_tree.png"
+logo: "/assets/icons/ice_cube.png"
 
 # Outputting
 permalink: /:categories/:title/
@@ -68,7 +71,7 @@ plugins:
 author:
   name   : "Yuanjing Shi"
   avatar : "/assets/images/selfie-2023.jpeg"
-  bio    : ""
+  bio    : "I write about machine learning and compilers"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
