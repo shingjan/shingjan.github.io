@@ -46,7 +46,7 @@ comments:
     shortname: "shingjan"
 
 include:
-  - _pages
+  - _pages 
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -75,22 +75,8 @@ author:
   name   : "Yuanjing Shi"
   avatar : "/assets/images/selfie-2023.jpeg"
   bio    : "I write about machine learning and compilers"
-  links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://shingjan.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/shingjan_"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/shingjan"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/shingjan"
-    - label: "Mastodon"
-      icon: "fab fa-fw fa-mastodon"
-      url: "https://discuss.systems/@shingjan"
+  links  :
+
 
 footer:
   links:
